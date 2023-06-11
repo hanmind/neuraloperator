@@ -1,5 +1,5 @@
 # Neural Operator
-I'm studying how to learn parametric partial differential equations by Neural Operators. After learning **Fourier Neural Operator(FNO)** and **Physics-Informed Neural Operator(PINO)** etc., we're going to go on our own study using them. Wait a bit please!
+I'm studying how to make models learn ``parametric partial differential equations`` by ``Neural Operators``. After learning **Fourier Neural Operator(FNO)** and **Physics-Informed Neural Operator(PINO)** etc., we're going to go on our own study using them. Wait a bit please!
 
 ## Files
 Most of the files are based on Zongyi-Li's work. We focused on understanding FNO and **visuallizing model results**. You can check how effective FNO is by viewing them. 
